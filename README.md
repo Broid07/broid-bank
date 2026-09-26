@@ -26,6 +26,8 @@ Qbox için minimal banka ve ATM arayüzü. Siyah zemin, mor vurgu, tek kart.
 
 ## Kurulum
 
+Adım adım kurulum, oyunda deneme listesi ve sorun giderme için: **[KURULUM.md](KURULUM.md)**
+
 1. Klasörü `resources` içine `broid-bank` adıyla koyun.
 2. `server.cfg` dosyasına bağımlılıklardan **sonra** ekleyin:
 
